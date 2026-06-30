@@ -6,7 +6,7 @@ Interactive Tableau dashboard analyzing more than 21,000 Airbnb listings across 
 
 ## Tableau Dashboard 
 
-![NYC Airbnb Dashboard](images/tableau_dashboard.png)
+![NYC Airbnb Dashboard](tableau_dashboard.png)
 
 ---
 
