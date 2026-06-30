@@ -28,7 +28,7 @@ The dashboard was designed to answer questions such as:
 - How are listings distributed across New York City?
 - Which room types are most common?
 - What is the typical nightly price across the market?
-- How are review ratings distributed?
+
 
 ---
 
@@ -63,7 +63,6 @@ Cleaning steps included:
 - Converted price values from text format into numeric values.
 - Removed listings with missing nightly prices.
 - Filtered unrealistic nightly prices by keeping listings between **$25 and $3,000**.
-- Verified duplicate records.
 - Exported the cleaned dataset for Tableau visualization.
 
 ---
